@@ -52,4 +52,5 @@ fn main() {
         }
         num += 1
     }
+    println!();
 }
